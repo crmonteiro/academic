@@ -235,6 +235,16 @@ defaultContentLanguageInSubdir = false
 title = "Cláudia Monteiro"
 role = "Translator"
 
+[[languages.en.menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[languages.en.menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 2
+
 [Languages.pt]
   languageCode = "pt-pt"
 
