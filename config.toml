@@ -251,7 +251,7 @@ role = "Tradutora"
 [Languages.en]
   languageCode = "en-us"
   
-title = "Cláudia Monteiro"
+name = "Cláudia Monteiro"
 role = "Translator"
 
 [[Languages.en.menu.main]]

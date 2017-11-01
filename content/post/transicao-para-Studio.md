@@ -1,6 +1,6 @@
 ---
 title: "Da Apple para o Windows e o Studio 2017"
-date: 2017-11-01T21:46:24Z
+date: 2017-06-01T21:46:24Z
 draft: false
 tags: ["SDL"]
 categories: ["CAT tools"]
