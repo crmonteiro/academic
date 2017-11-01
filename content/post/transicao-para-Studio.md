@@ -1,10 +1,10 @@
 ---
-title: "Transição da Apple para o Windows e o Studio 2017"
+title: "Da Apple para o Windows e o Studio 2017"
 date: 2017-11-01T21:46:24Z
-draft: true
+draft: false
 tags: ["SDL"]
 categories: ["CAT tools"]
-slug: "2017-07-13/transicao-apple"
+slug: "transicao-apple"
 ---
 
 Como utilizadora fiel da Apple desde antes do início do meu percurso como tradutora, foi com alguma relutância que, este ano, acrescentei o Windows à minha rotina de trabalho e comprei a minha primeira licença do Trados Studio. O meu trabalho sempre se cingiu a clientes para quem é irrelevante a ferramenta que utilizo. Mas uma série de constrangimentos e uma série de atrativos no Studio 2017 acabaram por me persuadir.
