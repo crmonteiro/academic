@@ -4,7 +4,7 @@ date: 2017-08-01T22:04:21Z
 draft: false
 tags: ["SDL"]
 categories: ["CAT tools"]
-slug: "2017-08-21/abrir-multiplos-ficheiros"
+slug: "abrir-multiplos-ficheiros"
 ---
 
 As ferramentas de tradução disponíveis para Mac são escassas, mas a minha preferida foi sem dúvida o CafeTran, uma ferramenta concebida por um tradutor e com muito do arsenal comum ao Studio. Nas últimas semanas, tenho procurado algumas das funcionalidades que usava no programa, e esta é uma delas. É uma opção simples que no CafeTran se consegue clicando em "Glue all files virtually", que abre todos os ficheiros de um projeto ao mesmo tempo e os trata como se fossem um só. (Na versão para Mac, encontra-se indo a _Project > Documents_.)
