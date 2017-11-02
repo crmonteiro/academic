@@ -17,7 +17,7 @@ weight = 4
 
 Estar em sala de aula é uma oportunidade excelente para partilhar experiências, opiniões, e aprender em conjunto.
 
-As áreas de formações excercidas até agora incluem:
+As áreas de formações incluem:
 
 - O acordo ortográfico
 - Scrivener, para organização e escrita de textos académicos
