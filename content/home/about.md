@@ -30,4 +30,4 @@ weight = 1
 
 # Tradução académica
 
-No meu trabalho, combino uma dupla formação em Psicologia e em Tradução e Serviços Linguísticos para ajudar a criar textos bem escritos na sua língua de chegada dentro das Ciências Sociais e no contexto académico.
+No meu trabalho, combino uma dupla formação em Psicologia e em Tradução e Serviços Linguísticos para ajudar a criar textos bem escritos na sua língua de chegada nas Ciências Sociais e no contexto académico.
