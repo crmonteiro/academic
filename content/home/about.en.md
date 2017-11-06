@@ -30,4 +30,4 @@ weight = 5
 
 # Academic translation
 
-I combine my training in Psychology and in Translation & Language Services to create well-researched, cohesive and effective texts in their target language within Social Sciences and the academic world.
+I combine my training in Psychology and in Translation & Language Services to help create well-written texts in their target language within Social Sciences and the academic world.

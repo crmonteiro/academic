@@ -20,5 +20,5 @@ Estar em sala de aula é uma oportunidade excelente para partilhar experiências
 As áreas de formações incluem:
 
 - O acordo ortográfico
-- Scrivener, para organização e escrita de textos académicos
+- Scrivener para Mac, para organização e escrita de textos académicos
 - Websites para freelancers: plataformas, construção e publicação
