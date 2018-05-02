@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Cláudia Monteiro"
-copyright = "&copy; 2017 Cláudia Monteiro"
+copyright = "&copy; 2018 Cláudia Monteiro"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -15,7 +15,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "pt"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [outputs]
@@ -225,7 +225,7 @@ defaultContentLanguageInSubdir = false
 [Languages.pt]
   languageCode = "pt-pt"
   
-role = "Tradutora"
+role = "Tradutora Académica"
 
 [[Languages.pt.menu.main]]
   name = "Início"
@@ -252,7 +252,7 @@ role = "Tradutora"
   languageCode = "en-us"
   
 name = "Cláudia Monteiro"
-role = "Translator"
+role = "Academic Translator"
 
 [[Languages.en.menu.main]]
   name = "Home"
