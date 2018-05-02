@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Scientific writing",
+    "Academic writing",
     "Terminology in Social Sciences",
     "Applied Social Psychology"
   ]
