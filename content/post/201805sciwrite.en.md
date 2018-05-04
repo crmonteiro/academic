@@ -3,7 +3,7 @@ title: "Clear thinking: A review of Writing in the Sciences"
 date: 2018-05-04T15:48:01+01:00
 draft: false
 tags: ["writing"]
-summary: "‘Clear thinking becomes clear writing,’ William Zinsser wrote. ‘One can’t exist without the other.’ Learning to write well is the goal of _Writing in the Sciences_, an eight-week course taught by Kristin Sainani from Stanford University."
+summary: "‘Clear thinking becomes clear writing,’ William Zinsser wrote. ‘One can’t exist without the other.’ Improving this skill is the goal of _Writing in the Sciences_, an eight-week course taught by Kristin Sainani from Stanford University."
 slug: "writing-in-the-sciences"
 ---
 
