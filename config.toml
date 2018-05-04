@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Cláudia Monteiro"
-copyright = "&copy; 2018 Cláudia Monteiro"
+title = "Claudia Monteiro"
+copyright = "&copy; 2018 Claudia Monteiro"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir = false
   font = "classic"
 
   # Your details.
-  name = "Cláudia Monteiro"
+  name = "Claudia Monteiro"
   role = ""
 
   # Organizations/Affiliations.
@@ -246,7 +246,7 @@ role = "Tradutora Académica"
 [Languages.en]
   languageCode = "en-us"
   
-name = "Cláudia Monteiro"
+name = "Claudia Monteiro"
 role = "Academic Translator"
 
 [[Languages.en.menu.main]]
@@ -255,8 +255,13 @@ role = "Academic Translator"
   weight = 1
 
 [[Languages.en.menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 2
+
+[[Languages.en.menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 2
+  weight = 3
 
 
