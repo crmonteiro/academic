@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Master's degree in Translation and Language Services"
-  institution = "In the European Master's in Translation network — Faculdade de Letras da Universidade do Porto"
+  institution = "Part of the European Master's in Translation network — Faculdade de Letras da Universidade do Porto"
   year = 2014
 
 [[education.courses]]
